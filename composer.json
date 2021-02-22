@@ -1,5 +1,5 @@
 {
-    "name": "sylius/user-bundle",
+    "name": "dotdev/sylius-user-bundle",
     "type": "symfony-bundle",
     "description": "Users management for Symfony projects.",
     "keywords": [
@@ -44,7 +44,7 @@
         "sylius-labs/polyfill-symfony-framework-bundle": "^1.0",
         "sylius/mailer-bundle": "^1.4",
         "sylius/resource-bundle": "^1.7",
-        "sylius/user": "^1.6",
+        "dotdev/sylius-user": "^1.6",
         "symfony/framework-bundle": "^4.4 || ^5.2",
         "webmozart/assert": "^1.8"
     },
